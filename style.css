@@ -60,6 +60,10 @@ del {
   color: #dc3545;
 }
 
+.bold {
+  font-weight: bold;
+}
+
 ins {
   color: #28a745;
 }
